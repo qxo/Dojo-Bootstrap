@@ -1,0 +1,16 @@
+define([
+	"./Alert",
+"./Button",
+"./Collapse",
+"./Datepicker",
+"./Dropdown",
+"./Modal",
+"./Popover",
+"./Scrollspy",
+"./Support",
+"./Tab",
+"./Tooltip"
+,"./Carousel"
+,"./Typeahead"
+],function(){
+});
